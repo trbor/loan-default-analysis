@@ -46,10 +46,17 @@ To uncover insights from **demographic and financial data** that influence wheth
 
 ## 📊 Sample Visuals
 
-- Income vs Loan Status (Boxplot)
-- Gender Distribution (Countplot)
-- Education vs Loan Approval (Barplot)
-- Correlation Heatmap
+### ✅ Gender Distribution
+![Gender Distribution](output/gender_distribution.png)
+
+### ✅ Education vs Loan Status
+![Loan Status by Education](output/loan_status_by_education.png)
+
+### ✅ Income vs Loan Status
+![Income vs Loan Status](output/income_vs_loan_status.png)
+
+### ✅ Correlation Heatmap
+![Correlation Heatmap](output/correlation_heatmap.png)
 
 _All visuals are stored in `/output/` folder._
 
